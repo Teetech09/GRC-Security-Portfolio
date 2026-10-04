@@ -1,1 +1,258 @@
+# SecureTrust Acceptable Use Policy – Customization Notes
 
+## 1. Purpose of This Document
+
+This document records the key decisions made while adapting the SANS
+Acceptable Use Standard for SecureTrust Microfinance Bank Ltd., a fictional
+financial institution created for this GRC portfolio project.
+
+The objective was not to reproduce the SANS template word-for-word.
+Instead, the template was used as a baseline to develop an Acceptable Use
+Policy appropriate for SecureTrust's fictional business environment,
+information assets, users, and security risks.
+
+These customization notes demonstrate the reasoning used during the policy
+development process.
+
+---
+
+## 2. Baseline Used
+
+The primary baseline used for this project was:
+
+**SANS Institute – Acceptable Use Standard, Last Updated April 2025**
+
+The SANS standard provided guidance covering:
+
+- Acceptable use of organizational technology resources
+- Protection of organizational information
+- User responsibilities
+- Password and account security
+- Device security
+- Prohibited system and network activities
+- Email and communication activities
+- Social media use
+- Policy sanctions
+
+The baseline requirements were reviewed and then adapted to the SecureTrust
+business scenario.
+
+---
+
+## 3. Organization Scenario
+
+SecureTrust Microfinance Bank Ltd. is a fictional Nigerian microfinance
+institution created solely for this portfolio exercise.
+
+The organization provides financial services to individuals and small
+businesses and relies on employees, contractors, information systems,
+banking applications, networks, electronic devices, and third-party
+services to conduct its operations.
+
+For the purpose of this project, SecureTrust is assumed to process
+information including:
+
+- Customer personal information
+- Customer financial information
+- Transaction records
+- Employee information
+- Authentication credentials
+- Internal business information
+
+Because of the sensitivity of these assets, inappropriate use of technology
+resources could result in unauthorized access, fraud, data exposure,
+malware infection, financial loss, or disruption to business operations.
+
+---
+
+## 4. Customization Approach
+
+The SANS Acceptable Use Standard was reviewed section by section.
+
+For each area, the following questions were considered:
+
+1. Does this requirement apply to SecureTrust?
+2. What information or technology asset is being protected?
+3. What security risk does the requirement address?
+4. Does the requirement need to be adapted for a financial institution?
+5. Is an additional requirement necessary for the SecureTrust scenario?
+6. Can the requirement be written clearly enough for employees and other
+   authorized users to understand?
+
+Requirements that were applicable were retained and rewritten for the
+SecureTrust environment.
+
+Additional requirements were introduced where the fictional banking
+scenario presented risks not explicitly addressed by the baseline.
+
+---
+
+## 5. Major Policy Customizations
+
+| Baseline Area | SecureTrust Customization | Reason for Customization |
+|---|---|---|
+| Purpose | Added references to customer information, financial information, fraud, financial loss, and insider misuse | SecureTrust operates in a simulated financial-services environment and handles sensitive customer and financial information |
+| Scope | Expanded the scope to include banking applications, databases, cloud services, customer data, financial data, and authentication credentials | These assets form part of the fictional bank's technology and information environment |
+| General Use | Added a requirement that customer and financial information may only be accessed for legitimate and authorized business purposes | Having technical access to information does not automatically justify its use |
+| Customer Records | Explicitly prohibited accessing customer accounts or transaction records for curiosity, personal interest, or financial gain | Reduces the risk of insider misuse and unauthorized access |
+| Credential Security | Expanded credential protection to include passwords, authentication codes, tokens, and other authentication information | Modern authentication can involve more than passwords |
+| Device Security | Retained the requirement for automatic screen locking after no more than 10 minutes of inactivity | Reduces unauthorized access to unattended devices and is based on the SANS baseline |
+| Confidential Information | Added restrictions on transmitting or storing sensitive information through unauthorized personal email, applications, cloud storage, or communication platforms | Reduces the likelihood of unauthorized disclosure or loss of control over sensitive information |
+| Unacceptable Use | Added specific restrictions against using customer information or system access for personal financial gain or fraud | Financial institutions face risks associated with fraudulent and insider activity |
+| Unauthorized Software | Added restrictions covering unapproved applications, browser extensions, cloud-storage services, and communication platforms | Unauthorized technology may introduce malware, data leakage, or other security risks |
+| Security Testing | Retained restrictions on unauthorized vulnerability scanning, port scanning, penetration testing, and network monitoring | Security testing should only be performed by appropriately authorized personnel |
+| Email Security | Added requirements for identifying and reporting suspicious links, attachments, QR codes, and phishing attempts | Employees may be targeted through social-engineering and phishing attacks |
+| Financial Requests | Added verification requirements for unusual requests involving payments, transfers, customer information, or credential changes | Helps reduce the risk of phishing, impersonation, and Business Email Compromise |
+| Social Media | Added restrictions against exposing customer records, computer screens, internal documents, or sensitive information through photographs, videos, and screenshots | Sensitive information may be exposed unintentionally through social media activity |
+| Policy Exceptions | Added formal documentation, business justification, risk assessment, approval, compensating controls, and review requirements | Provides governance over situations where normal policy requirements cannot be followed |
+| Policy Review | Added an annual review cycle and review following significant business, technology, risk, legal, or regulatory changes | Helps ensure the policy remains relevant throughout its lifecycle |
+| Document Control | Added policy ownership, version, classification, approval authority, review frequency, and policy status | Demonstrates policy governance and document lifecycle management |
+
+---
+
+## 6. Example Risk-Based Decisions
+
+### 6.1 Authorized Access vs. Authorized Use
+
+During policy development, a scenario was considered where a loan officer
+had legitimate system access to customer accounts but accessed a customer's
+account because a friend requested the information.
+
+Although the employee had technical access to the system, there was no
+legitimate business reason to access that particular customer's information.
+
+The policy therefore distinguishes between having system access and having
+an authorized business purpose for using that access.
+
+**Risk addressed:** Unauthorized access and insider misuse.
+
+**Policy response:** Customer and financial information may only be accessed
+when required for legitimate and authorized job responsibilities.
+
+---
+
+### 6.2 Credential Sharing
+
+A remote-working scenario was considered where an employee allowed a family
+member to use a bank laptop and shared the employee's password.
+
+Even if no information was stolen, allowing an unauthorized person to use
+the account would violate the policy.
+
+Credential sharing could also reduce accountability because actions
+performed using the account could appear to have been performed by the
+authorized employee.
+
+**Risk addressed:** Unauthorized access and loss of accountability.
+
+**Policy response:** Users must not disclose authentication credentials or
+allow another individual to access SecureTrust systems using their assigned
+account.
+
+---
+
+### 6.3 Business Email Compromise
+
+A scenario was considered where an attacker impersonated a senior manager
+and requested an urgent financial transaction.
+
+Relying solely on the apparent sender of an email could result in an
+unauthorized transaction.
+
+**Risk addressed:** Phishing, impersonation, fraud, and Business Email
+Compromise.
+
+**Policy response:** Unusual or sensitive requests involving payments,
+transfers, credentials, or customer information must be verified using an
+approved verification method before action is taken.
+
+---
+
+### 6.4 Social Media Data Exposure
+
+An employee could unintentionally expose confidential information by taking
+a photograph or video in the workplace while customer information or
+internal documents are visible in the background.
+
+**Risk addressed:** Accidental information disclosure.
+
+**Policy response:** Users must ensure workplace photographs, videos, and
+screenshots do not expose confidential or sensitive information.
+
+---
+
+## 7. Key Risks Addressed
+
+The customized policy helps address the following risks:
+
+- Unauthorized access to customer information
+- Insider misuse
+- Credential sharing
+- Loss of user accountability
+- Customer data exposure
+- Phishing and social engineering
+- Business Email Compromise
+- Fraudulent financial activity
+- Malware and ransomware
+- Unauthorized software
+- Unauthorized security testing
+- Accidental disclosure of confidential information
+- Misuse of bank technology resources
+- Social media information exposure
+
+---
+
+## 8. GRC Skills Demonstrated
+
+This project demonstrates practical application of:
+
+- Security policy development
+- Policy review and customization
+- Governance documentation
+- Risk identification
+- Control identification
+- Risk-based decision making
+- Policy lifecycle management
+- Security awareness considerations
+- Data protection considerations
+- User access governance
+- Policy exception management
+- Documentation and communication of security requirements
+
+---
+
+## 9. Lessons Learned
+
+This project demonstrated that a security policy template should not simply
+be copied and renamed for another organization.
+
+Policy development requires understanding the organization's business
+environment, information assets, users, risks, and security requirements.
+
+I also learned that having technical permission to access a system does not
+automatically mean that every use of that access is authorized. Access to
+sensitive information should have a legitimate business purpose.
+
+The project also demonstrated the importance of writing policies that are
+clear enough for users to understand while still providing requirements
+that can be governed, monitored, and enforced.
+
+---
+
+## 10. Reference
+
+SANS Institute – *Acceptable Use Standard*, Last Updated April 2025.
+
+The SANS standard was used as the primary baseline for this portfolio
+exercise and was customized for the fictional SecureTrust Microfinance Bank
+environment.
+
+---
+
+## Disclaimer
+
+SecureTrust Microfinance Bank Ltd. is a fictional organization.
+
+This project was created solely for educational and professional portfolio
+purposes and does not describe the policies, systems, controls,
+vulnerabilities, or the security posture of any real financial institution.
