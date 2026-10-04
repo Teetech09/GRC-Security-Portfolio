@@ -1,1 +1,381 @@
+# SecureTrust Microfinance Bank Ltd.
+## Acceptable Use Policy
 
+> **Portfolio Disclaimer:** SecureTrust Microfinance Bank Ltd. is a fictional
+> organization created solely for cybersecurity and GRC portfolio purposes.
+> This policy does not represent the policies, systems, controls, vulnerabilities,
+> or security posture of any real financial institution.
+
+---
+
+## Document Control
+
+| Field | Details |
+|---|---|
+| Document Title | Acceptable Use Policy |
+| Organization | SecureTrust Microfinance Bank Ltd. |
+| Document Type | Information Security Policy |
+| Version | 1.0 |
+| Policy Owner | Information Security |
+| Classification | Internal |
+| Approved By | Executive Management |
+| Review Frequency | Annually |
+| Status | Portfolio Simulation |
+| Effective Date | To be assigned |
+| Next Review Date | One year from effective date |
+
+---
+
+## 1. Purpose
+
+The purpose of this Acceptable Use Policy is to establish requirements for
+the appropriate and secure use of SecureTrust Microfinance Bank's information
+systems, electronic devices, network resources, and data.
+
+SecureTrust handles sensitive customer and financial information.
+Inappropriate or unauthorized use of the bank's resources could result in
+data breaches, fraud, malware infection, financial loss, disruption of
+operations, or regulatory and legal consequences.
+
+This policy defines acceptable and prohibited activities to reduce risks
+arising from accidental misuse, negligence, unauthorized access, and
+intentional insider threats.
+
+---
+
+## 2. Scope
+
+This policy applies to all employees, contractors, consultants, temporary
+workers, and authorized third parties who access SecureTrust Microfinance
+Bank's information systems, information, or technology resources.
+
+The policy covers all information and technology resources used to conduct
+bank business, including:
+
+- Computers and workstations
+- Mobile devices
+- Servers
+- Networks and internet services
+- Email and communication systems
+- Banking applications
+- Databases
+- Customer and financial data
+- Employee information
+- Cloud services
+- Authentication credentials
+- Other electronic resources owned, leased, or authorized by SecureTrust
+
+This policy applies whether these resources are accessed from SecureTrust
+premises or remotely.
+
+---
+
+# 3. Safeguards
+
+## 3.1 General Use and Ownership
+
+1. All information created, processed, stored, or transmitted using
+   SecureTrust systems and resources for official business shall be treated
+   as bank information and protected in accordance with applicable
+   information security and data protection requirements.
+
+2. Employees and other authorized users shall access, use, or share customer,
+   financial, employee, or other confidential information only when
+   authorized and when required to perform their assigned job responsibilities.
+
+3. Users shall not access customer accounts, transaction records, employee
+   records, or other bank information for personal interest, curiosity,
+   financial gain, or on behalf of unauthorized persons, even where their
+   assigned system privileges technically permit such access.
+
+4. Users are responsible for protecting bank information and technology
+   resources under their control from unauthorized access, disclosure,
+   modification, loss, theft, or misuse.
+
+5. Any suspected or actual loss, theft, unauthorized disclosure, or misuse
+   of bank information or technology resources must be reported promptly
+   through SecureTrust's designated incident-reporting process.
+
+6. Limited personal use of bank technology resources may be permitted where
+   authorized, provided such use does not interfere with business activities,
+   introduce unacceptable security risks, violate applicable laws or
+   policies, or result in unauthorized disclosure of bank or customer
+   information.
+
+7. SecureTrust reserves the right to monitor and audit its systems, devices,
+   networks, and other technology resources for legitimate security,
+   compliance, operational, and investigative purposes, subject to
+   applicable requirements.
+
+---
+
+## 3.2 Security and Confidential Information
+
+1. All computers, mobile devices, and other technology resources used to
+   access SecureTrust systems or information must comply with approved bank
+   security requirements.
+
+2. Users must protect their login credentials and must not disclose
+   passwords, authentication codes, tokens, or other authentication
+   information to another person.
+
+3. Users must not allow another individual to access SecureTrust systems
+   using their assigned account or credentials.
+
+4. Bank-issued computers and other applicable devices must be protected by
+   a password or other approved authentication mechanism and configured to
+   automatically lock after no more than 10 minutes of inactivity.
+
+5. Users must manually lock their workstation or log out whenever leaving
+   a device unattended.
+
+6. Customer information, financial records, transaction information,
+   authentication information, and other confidential bank information
+   must not be copied, transmitted, stored, or disclosed through
+   unauthorized devices, applications, personal email accounts, cloud
+   storage, or communication platforms.
+
+7. Users must exercise caution when opening email attachments, clicking
+   links, scanning QR codes, or responding to messages from unknown or
+   suspicious sources.
+
+8. Suspected phishing attempts, malicious communications, unauthorized
+   access, or other security incidents must be reported through the bank's
+   approved reporting process.
+
+9. Confidential information must only be accessed, processed, or shared for
+   legitimate and authorized business purposes.
+
+---
+
+## 3.3 Unacceptable Use
+
+Users of SecureTrust information and technology resources must not engage in
+activities that could compromise the confidentiality, integrity,
+availability, security, or lawful operation of the bank's systems and
+information.
+
+The following activities are prohibited:
+
+1. Accessing customer records, employee information, accounts, databases,
+   applications, servers, or other information without a legitimate and
+   authorized business purpose.
+
+2. Sharing passwords, authentication codes, tokens, accounts, or other
+   access credentials with employees, family members, third parties, or
+   other unauthorized persons.
+
+3. Intentionally downloading, installing, introducing, or distributing
+   malware, ransomware, viruses, or other malicious programs.
+
+4. Disabling, modifying, or circumventing authentication, endpoint
+   protection, access controls, monitoring systems, or other security
+   controls without authorization.
+
+5. Conducting vulnerability scans, port scans, penetration testing, network
+   monitoring, or other security testing without prior authorization from
+   the appropriate SecureTrust function.
+
+6. Copying, downloading, sending, photographing, printing, uploading, or
+   otherwise disclosing confidential customer, financial, employee, or bank
+   information without authorization.
+
+7. Using access to SecureTrust systems, customer information, or other bank
+   resources for fraud, personal financial gain, or to benefit another
+   unauthorized person.
+
+8. Installing or using unauthorized applications, browser extensions,
+   cloud-storage services, communication platforms, or other software on
+   bank systems.
+
+9. Intentionally interfering with, damaging, disrupting, or denying access
+   to SecureTrust systems, devices, networks, applications, or services.
+
+10. Using SecureTrust resources for fraudulent, illegal, harassing,
+    discriminatory, or other activities prohibited by applicable law or
+    bank policy.
+
+11. Downloading, installing, copying, or distributing software or other
+    copyrighted material without appropriate authorization or licensing.
+
+12. Providing confidential information about SecureTrust, its customers,
+    employees, systems, or internal operations to unauthorized external
+    parties.
+
+---
+
+## 3.4 Email and Communication Activities
+
+SecureTrust email and communication systems are provided primarily for
+authorized business purposes.
+
+Users must:
+
+1. Use their assigned SecureTrust email account and approved communication
+   channels for official bank business.
+
+2. Exercise caution when opening attachments, clicking links, scanning QR
+   codes, or responding to unexpected or suspicious messages.
+
+3. Report suspected phishing, fraudulent messages, malicious attachments,
+   or other suspicious communications through the bank's approved reporting
+   process.
+
+4. Verify unusual or sensitive requests involving customer information,
+   financial transactions, credential changes, payments, or transfers using
+   an approved verification method before taking action.
+
+5. Ensure confidential or sensitive information is transmitted only through
+   communication channels approved by SecureTrust.
+
+Users must not:
+
+6. Forward customer information, transaction records, internal documents,
+   or other confidential bank information to personal email accounts or
+   unauthorized recipients.
+
+7. Use personal email accounts or unauthorized messaging applications to
+   conduct official bank business where doing so could expose bank or
+   customer information.
+
+8. Send unsolicited bulk messages, chain letters, fraudulent messages, or
+   other communications unrelated to legitimate bank activities.
+
+9. Forge, manipulate, or conceal email information or impersonate another
+   employee, customer, or third party.
+
+10. Use SecureTrust communication systems to engage in harassment,
+    discrimination, fraud, illegal activity, or other conduct prohibited by
+    bank policy.
+
+11. Disclose confidential bank or customer information through email,
+    messaging platforms, telephone conversations, or other communication
+    channels without appropriate authorization.
+
+---
+
+## 3.5 Social Media and Public Communications
+
+Employees and other authorized users must use social media responsibly and
+ensure that their online activities do not compromise SecureTrust, its
+customers, employees, or confidential information.
+
+Users must:
+
+1. Protect customer, financial, employee, and other confidential information
+   when using social media or other public platforms.
+
+2. Obtain appropriate authorization before making public statements on
+   behalf of SecureTrust Microfinance Bank.
+
+3. Clearly distinguish personal opinions from official statements of
+   SecureTrust where their association with the bank is relevant.
+
+Users must not:
+
+4. Post or disclose customer information, transaction details, internal
+   documents, screenshots, system information, security controls, or other
+   confidential bank information on social media or public platforms.
+
+5. Use SecureTrust's name, logo, trademarks, or other intellectual property
+   in an unauthorized manner.
+
+6. Publish content using bank resources that is fraudulent, discriminatory,
+   harassing, illegal, or otherwise violates SecureTrust policies.
+
+7. Share photographs, videos, or screenshots taken within the workplace
+   where they expose confidential information displayed on computer screens,
+   documents, identification cards, customer records, or other sensitive
+   materials.
+
+---
+
+## 3.6 Policy Compliance and Sanctions
+
+All employees, contractors, consultants, temporary workers, and authorized
+third parties are required to comply with this Acceptable Use Policy.
+
+Violations of this policy may result in disciplinary or corrective action
+in accordance with SecureTrust's applicable human resources, contractual,
+and disciplinary procedures.
+
+Depending on the nature and severity of the violation, corrective or
+disciplinary measures may include:
+
+- Mandatory security awareness or refresher training
+- Formal warning
+- Restriction or temporary suspension of access to bank systems and resources
+- Disciplinary action, up to and including termination of employment
+- Termination of a contractual relationship
+- Referral to appropriate authorities where activities may violate
+  applicable law
+
+SecureTrust shall assess violations based on their nature, severity, intent,
+and potential or actual impact.
+
+Disciplinary measures shall be applied consistently and proportionately.
+
+---
+
+## 4. Policy Exceptions
+
+Any exception to this policy must be formally documented and supported by a
+legitimate business justification.
+
+The security risks associated with the proposed exception must be assessed,
+and the exception must be approved by the appropriate SecureTrust authority.
+
+Where an approved exception introduces additional security risk,
+appropriate compensating controls should be implemented where practicable.
+
+Approved exceptions must have a defined review or expiration date and must
+be periodically reassessed.
+
+---
+
+## 5. Policy Review and Maintenance
+
+This policy shall be reviewed at least annually or whenever significant
+changes occur to SecureTrust's:
+
+- Technology environment
+- Business operations
+- Information security risks
+- Legal requirements
+- Regulatory requirements
+
+The Information Security function shall be responsible for coordinating
+the policy review and recommending necessary updates.
+
+Material changes to the policy shall be submitted to the appropriate
+management authority for approval.
+
+---
+
+## 6. References
+
+The following resource was used as the primary baseline for the development
+of this policy:
+
+- SANS Institute, *Acceptable Use Standard*, Last Updated April 2025.
+
+The SANS standard was used as a baseline and customized for the fictional
+SecureTrust Microfinance Bank environment. Additional requirements were
+introduced to address risks associated with customer information, financial
+data, banking operations, phishing, unauthorized access, insider misuse,
+and other information security concerns relevant to the project scenario.
+
+---
+
+## 7. Approval
+
+| Role | Approval | Date |
+|---|---|---|
+| Policy Owner – Information Security | Pending | To be assigned |
+| Executive Management | Pending | To be assigned |
+
+---
+
+**Document Version:** 1.0  
+**Classification:** Internal  
+**Status:** Portfolio Simulation
