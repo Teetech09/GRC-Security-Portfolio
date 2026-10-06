@@ -34,20 +34,31 @@ The project covers:
 6. Document lessons learned and assessment limitations.
 
 ## Planned Deliverables
+## Project Deliverables
 
-| Deliverable | Status |
+| Deliverable | Link |
 |---|---|
-| Scope and baseline assessment | Planned |
-| Asset and threat assessment | Planned |
-| Risk register | Planned |
-| Phishing awareness campaign | Planned |
-| Password security policy | Planned |
-| MFA implementation plan | Planned |
-| Backup and recovery plan | Planned |
-| Incident response plan | Planned |
-| Cybersecurity strategy report | Planned |
-| Final presentation | Planned |
-| Lessons learned | Planned |
+| Scope and baseline | [View](documentation/01-scope-and-baseline.md) |
+| Asset and threat assessment | [View](assessment/asset-and-threat-assessment.md) |
+| Risk register | [View](assessment/risk-register.md) |
+| Sample phishing email | [View](awareness/sample-phishing-email.md) |
+| Awareness training outline | [View](awareness/training-outline.md) |
+| Phishing simulation plan | [View](awareness/simulation-plan.md) |
+| Phishing training presentation | Browse the awareness folder |
+| Password security policy | [View](policies/password-security-policy.md) |
+| MFA implementation plan | [View](plans/mfa-implementation-plan.md) |
+| Backup and recovery plan | [View](plans/backup-and-recovery-plan.md) |
+| Incident response plan | [View](plans/incident-response-plan.md) |
+| Cybersecurity strategy report | [View](report/cybersecurity-strategy-report.md) |
+| Final strategy presentation | [Browse files](presentation/) |
+| Lessons learned | [View](documentation/02-lessons-learned.md) |
+
+## Project Status
+
+Educational assessment and planning documents prepared, with the final strategy presentation uploaded.
+
+Recommendations remain proposed. No live assessment, control deployment, staff training, phishing simulation, or operational exercise has been performed.
+
 
 ## Evidence and Assumptions
 
