@@ -46,30 +46,10 @@ VLAN identifiers are illustrative. Actual deployment requires compatible network
 
 4. Proposed Network Architecture
 
+<img width="2784" height="884" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/3f497ba3-fa9a-4677-b435-a76d7db79e29" />
 
-                    INTERNET
-                        |
-                 ISP MODEM / ONT
-                        |
-                 FIREWALL / ROUTER
-                        |
-                MANAGED SWITCH / AP
-                        |
-       +----------------+----------------+
-       |                |                |
-   VLAN 10          VLAN 20          VLAN 30
-   GUEST Wi-Fi      POS / PAYMENTS   STAFF OPERATIONS
-   Internet Only    Payment Systems  Kitchen / Inventory
-       |
-       +-----------------------------------------+
-                                                 |
-                                             VLAN 40
-                                             ADMINISTRATION
-                                             Manager Devices
-                                                 |
-                                             VLAN 50
-                                             IT MANAGEMENT
-                                             Authorized IT Access
+
+
 
 
 The diagram represents logical network zones. In deployment, each zone would connect through appropriately configured switching, wireless access points, and firewall interfaces.
