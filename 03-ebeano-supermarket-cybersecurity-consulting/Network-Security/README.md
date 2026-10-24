@@ -1,5 +1,5 @@
 
- Deliverable 2: Network Security Plan
+Deliverable 2: Network Security Plan
 
  Ebeano Supermarket Cybersecurity Consulting Project
 
