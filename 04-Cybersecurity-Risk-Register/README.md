@@ -1,8 +1,9 @@
 Cybersecurity Risk Register and Risk Management Project
 
+
 Project Overview
 
-This project demonstrates a simulated cybersecurity risk assessment and risk management exercise for SecureTrust Microfinance Bank Ltd., a fictional Canadian financial services organisation.
+This project demonstrates a simulated cybersecurity risk assessment and risk management exercise for NorthBridge Financial Services Ltd., a fictional Canadian financial services organisation.
 
 The objective is to identify cybersecurity risks, evaluate their likelihood and potential business impact, document existing controls, assess residual risk, and recommend appropriate risk treatment activities.
 
@@ -10,12 +11,12 @@ The project applies practical Governance, Risk and Compliance (GRC) principles a
 
 Organisation Profile
 
-- Organisation: SecureTrust Microfinance Bank Ltd.
-- Industry: Financial Services
-- Location: Canada (fictional)
-- Technology Environment: AWS, Microsoft 365 and digital banking applications
-- Assessment Role: GRC Analyst
-- Assessment Type: Simulated cybersecurity risk assessment
+Organisation: SecureTrust Microfinance Bank Ltd.
+Industry: Financial Services
+Location: Canada (fictional)
+Technology Environment: AWS, Microsoft 365, and digital banking applications
+Assessment Role: GRC Analyst
+Assessment Type: Simulated cybersecurity risk assessment
 
 Project Objectives
 
@@ -31,7 +32,7 @@ Assessment Methodology
 
 A qualitative risk assessment methodology was used.
 
-**Risk Score = Likelihood × Impact**
+Risk Score = Likelihood × Impact
 
 Both likelihood and impact are assessed using a five-point scale.
 
@@ -77,9 +78,9 @@ The simulated assessment considers:
 
 Important Disclaimer
 
-This is a fictional learning and portfolio project. The organisation, assessment results, risk scores, control observations and remediation recommendations are simulated.
+This is a fictional learning and portfolio project. The organisation, assessment results, risk scores, control observations, and remediation recommendations are simulated.
 
-No real organisation, customer information or production environment was assessed.
+No real organisation, customer information, or production environment was assessed.
 
 The project is intended to demonstrate practical understanding of cybersecurity risk management, GRC documentation and security control assessment.
 
