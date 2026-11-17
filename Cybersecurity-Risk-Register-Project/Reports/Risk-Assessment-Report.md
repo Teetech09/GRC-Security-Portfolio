@@ -155,7 +155,26 @@ Recommendation:
 - Introduce periodic user access reviews.
 - Maintain evidence of account deactivation and approval.
 
-Finding 2: Cloud Data Protection Gaps
+Finding 2: Phishing Attacks and Employee Security Awareness
+
+Reference: R002  
+Rating: High
+
+The simulated assessment identified potential exposure to phishing attacks due to the risk of employees interacting with malicious emails, links or attachments.
+
+Successful phishing attacks could result in compromised user credentials, unauthorised access to organisational systems, exposure of sensitive customer information and possible business disruption.
+
+The effectiveness of existing email security configurations and employee security awareness measures has not been independently verified.
+
+Recommendation:
+
+- Strengthen email security configurations to detect and filter malicious messages.
+- Enforce Multi-Factor Authentication (MFA) for user accounts.
+- Conduct regular employee security awareness training.
+- Perform periodic phishing simulation exercises.
+- Monitor phishing incidents and document lessons learned.
+
+Finding 3: Cloud Data Protection Gaps
 
 Reference: R003  
 Rating: High
@@ -170,7 +189,28 @@ Recommendation:
 - Monitor configuration changes.
 - Retain evidence of cloud security reviews.
 
-Finding 3: Inadequate Security Monitoring
+  Finding 4: Ransomware Exposure and Incident Response Preparedness
+
+Reference: R004  
+Rating: High
+
+The simulated assessment identified potential exposure to ransomware attacks that could disrupt banking operations, encrypt critical business data and affect the availability of customer-facing services.
+
+Inadequate endpoint protection, insufficient incident detection capabilities or untested recovery procedures could increase the impact of a ransomware incident.
+
+The effectiveness of existing endpoint protection, backup restoration and incident response controls has not been independently verified.
+
+Recommendation:
+
+- Strengthen endpoint protection and malware detection capabilities.
+- Maintain regular and secure backups of critical business data.
+- Conduct periodic backup restoration tests.
+- Establish and maintain a documented ransomware incident response procedure.
+- Conduct incident response tabletop exercises to evaluate organisational preparedness.
+
+
+
+Finding 5: Inadequate Security Monitoring
 
 Reference: R005  
 Rating: High
@@ -184,7 +224,7 @@ Recommendation:
 - Define incident escalation procedures.
 - Maintain documented monitoring and review records.
 
-Finding 4: Third-Party Security Risk
+Finding 6: Third-Party Security Risk
 
 Reference: R006  
 Rating: High
@@ -198,7 +238,7 @@ Recommendation:
 - Include appropriate security requirements in vendor agreements.
 - Establish periodic vendor monitoring.
 
-Finding 5: Backup and Recovery Assurance
+Finding 7: Backup and Recovery Assurance
 
 Reference: R007  
 Rating: High
@@ -212,6 +252,27 @@ Recommendation:
 - Document recovery procedures.
 - Establish and test Recovery Time Objectives (RTOs) and Recovery Point Objectives (RPOs).
 
+Finding 8: Unpatched System Vulnerabilities and Patch Management Gaps
+
+Reference: R008  
+Rating: High
+
+The simulated assessment identified potential exposure arising from systems and applications that may contain unpatched security vulnerabilities.
+
+Attackers could exploit known vulnerabilities to gain unauthorised access, compromise sensitive information, disrupt business operations or establish persistence within the organisation's technology environment.
+
+Insufficient vulnerability tracking, delayed patch deployment, or inadequate verification of remediation could increase the organisation's exposure to known threats.
+
+The effectiveness of existing vulnerability management and patch management controls has not been independently verified.
+
+Recommendation:
+
+- Establish a formal vulnerability management procedure.
+- Conduct regular vulnerability scans across organisational systems.
+- Prioritise vulnerabilities based on severity and business impact.
+- Define patch deployment timelines and remediation responsibilities.
+- Maintain a vulnerability remediation tracking register.
+- Perform follow-up scans to verify that identified vulnerabilities have been successfully addressed.
 8. Recommended Risk Treatment Priorities
 
 The following actions are recommended based on the simulated risk ratings.
