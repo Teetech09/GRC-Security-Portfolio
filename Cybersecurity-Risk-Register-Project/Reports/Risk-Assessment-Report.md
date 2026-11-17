@@ -100,11 +100,11 @@ The following project-specific risk classifications were applied:
 
 The scoring methodology is documented separately in `risk_scoring_methodology.md`.
 
-6. Risk Assessment Results
+6. Risk Assessment Results     
 
 Eight cybersecurity risks were identified during the simulated assessment.
 
-| Risk ID | Risk Description | Inherent Score | Inherent Rating | Residual Score | Residual Rating |
+| Risk ID | Risk Description | Inherent Score | Inherent Rating |Provisional Residual Score |Provisional Residual Rating |
 |---|---|---:|---|---:|---|
 | R001 | Former employees retain active system accounts | 20 | Critical | 20 | Critical |
 | R002 | Employees fall victim to phishing attacks | 16 | High | 16 | High |
@@ -116,6 +116,16 @@ Eight cybersecurity risks were identified during the simulated assessment.
 | R008 | Unpatched vulnerabilities allow attackers to compromise systems | 16 | High | 16 | High |
 
 6.1 Risk Distribution
+
+The assessment indicates that all identified risks require management attention, with R001 receiving the highest priority due to its Critical rating.
+
+The residual risk scores are currently provisional and remain equal to the inherent risk scores. This is because the effectiveness of existing security controls has not been independently verified through evidence collection, control testing or formal assessment.
+
+No reduction in risk has therefore been assumed. Residual risk ratings should be reassessed when sufficient evidence is available to demonstrate that existing or newly implemented controls are operating effectively.
+
+The organisation should prioritise the recommended risk treatment actions and maintain supporting evidence to demonstrate control effectiveness before updating residual risk ratings.
+
+
 
 | Risk Rating | Number of Risks |
 |---|---:|
@@ -195,7 +205,7 @@ Rating: High
 
 The existence of backup configurations does not establish that critical business data can be successfully restored.
 
-**Recommendation:**
+Recommendation:
 
 - Conduct scheduled restoration tests.
 - Validate backup integrity.
@@ -233,7 +243,9 @@ Refer to `framework-mapping/nist_iso_mapping.md` for the detailed mapping.
 Framework alignment does not establish that the organisation has implemented or complied with the referenced controls.
 
 10. Limitations and Assumptions
+Residual risk scores remain provisional because the effectiveness of existing security controls has not been independently verified. The assessment does not assume that documented or assumed controls are fully implemented or operating effectively.
 
+A further assessment should be conducted after relevant evidence has been collected and control effectiveness has been evaluated. Residual risk ratings should then be updated to reflect the actual effectiveness of the controls and any remaining exposure.
 This assessment is based entirely on a simulated organisational scenario.
 
 The following limitations apply:
@@ -245,7 +257,8 @@ The following limitations apply:
 - Risk scores are illustrative and should not be interpreted as measured organisational exposure.
 - Regulatory applicability and specific compliance obligations would require further assessment.
 
-Residual risk scores have therefore not been reduced based on unverified control effectiveness.
+Residual risk scores remain provisional because the effectiveness of existing security controls has not been independently verified. The assessment does not assume that documented or assumed controls are fully implemented or operating effectively.
+
 
 11. Conclusion
 
@@ -267,4 +280,4 @@ Risk assessments should also be reviewed periodically and updated when significa
 | Risk Treatment Plan | `risk-register/risk_treatment_plan.csv` |
 | Framework Mapping | `framework-mapping/nist_iso_mapping.md` 
 
-Disclaimer: This is a simulated cybersecurity GRC portfolio project created for professional learning and demonstration purposes. It does not represent an actual audit, certification or compliance assessment of a real organisation.
+Disclaimer: This is a simulated cybersecurity GRC portfolio project created for professional learning and demonstration purposes. It does not represent an actual audit, certification, or compliance assessment of a real organisation.
