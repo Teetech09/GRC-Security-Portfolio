@@ -273,20 +273,20 @@ Recommendation:
 - Define patch deployment timelines and remediation responsibilities.
 - Maintain a vulnerability remediation tracking register.
 - Perform follow-up scans to verify that identified vulnerabilities have been successfully addressed.
+
 8. Recommended Risk Treatment Priorities
 
 The following actions are recommended based on the simulated risk ratings.
 
-| Priority | Risk ID | Recommended Action | Target Timeline |
-|---|---|---|---|
-| 1 | R001 | Strengthen employee offboarding and access deactivation | 30 days |
-| 2 | R003 | Enforce AWS S3 access restrictions and review permissions | 14 days |
-| 3 | R002 | Improve phishing awareness and simulation exercises | 45 days |
-| 4 | R008 | Establish vulnerability remediation deadlines and tracking | 30 days |
-| 5 | R004 | Improve ransomware preparedness and incident response testing | 60 days |
-| 6 | R006 | Conduct third-party security assessments | 45 days |
-| 7 | R007 | Perform backup restoration and recovery testing | 30 days |
-| 8 | R005 | Improve security monitoring and alert review procedures | 30 days |
+Priority	Risk ID	Recommended Action	Target Timeline
+1	R001	Strengthen employee offboarding and access deactivation	30 days
+2	R002	Improve phishing awareness and simulation exercises	45 days
+3	R008	Establish vulnerability remediation deadlines and tracking	30 days
+4	R003	Enforce AWS S3 access restrictions and review permissions	14 days
+5	R004	Improve ransomware preparedness and incident response testing	60 days
+6	R006	Conduct third-party security assessments	45 days
+7	R007	Perform backup restoration and recovery testing	30 days
+8	R005	Improve security monitoring and alert review procedures	30 days
 
 The proposed actions are documented in the accompanying `risk_treatment_plan.csv`.
 
